@@ -1,5 +1,7 @@
 # This is my personal St Configurations
 
+Feel free to use it, if you want to use st, but if don't understand how to patch it, or doesn't have time to patch it manually
+
 **Already patches with :**
 * mouse scrollback
 * w3m
