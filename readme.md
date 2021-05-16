@@ -1,4 +1,4 @@
-# This my personal St Configurations
+# This is my personal St Configurations
 
 **Already patches with :**
 * mouse scrollback
