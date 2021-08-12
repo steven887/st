@@ -11,7 +11,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerd Font:pixelsize=13:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font:pixelsize=15:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"mononoki Nerd Font Mono:pixelsize=14:antialias=true:autohint=true", 
@@ -144,7 +144,7 @@ static const char *colorname[] = {
  * foreground, background, cursor, reverse cursor
  */
 unsigned int defaultfg = 257;
-unsigned int defaultbg = 256;
+unsigned int defaultbg = 232;
 static unsigned int defaultcs = 257;
 static unsigned int defaultrcs = 257;
 
