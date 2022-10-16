@@ -18,7 +18,7 @@ static char *font2[] = {
 	"Hack Nerd Font Mono:pixelsize=14:antialias=true:autohint=true", //powerline
 	"Noto Color Emoji:pixelsize=13", // for unicode
 	"Fira Code iScript:Italic:pixelsize=13:antialias=true:autohint=true",
-
+    "FiraCode Nerd Font:pixelsize=15:antialias=true:autohint=true",
 	"Noto Sans Mono CJK JP:pixelsize=14:antialias=true:autohint=true" // for japanese words
 };
 
